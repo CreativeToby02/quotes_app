@@ -1,12 +1,3 @@
-class Quotes {
-  String? quoteText = quotes[0]['quoteText'];
-  String? quoteAuthor = quotes[0]['quoteAuthor'];
-
-  Quotes({this.quoteText, this.quoteAuthor});
-  
-  
-}
-
 List quotes = [
   {
     "quoteText":
