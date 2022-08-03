@@ -64,7 +64,7 @@ class _MyHomePageState extends State<MyHomePage> {
         padding: const EdgeInsets.symmetric(horizontal: 30, vertical: 100),
         decoration: BoxDecoration(
           gradient: LinearGradient(
-            begin: Alignment.topLeft,
+            begin: Alignment.topLeft,3
             end: Alignment.bottomRight,
             colors: [generateColor(), generateColor(), generateColor()],
           ),
